@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naysla Torres
 - 👀 I’m interested in Programming, volleyball, korean language and music
-- 🌱 Some technologies I worked about: .NetCore, C#, python, SQL and Oracle
+- 🌱 Some technologies I worked about: .NetCore, C#, python, java, SQL and Oracle
 - 🌱 I’m currently learning Golang, machine learning
 
 Hope to learn and teach in this amazing  company and make possible latam growing.
